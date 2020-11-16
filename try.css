@@ -2,8 +2,9 @@ body {
   margin: 0;
  font-family: 'Varela Round', sans-serif;
   line-height: 1.5;
-color: black;
- border-image  
-'Alef', sans-serif;
-font-family: 'Varela Round', sans-serif;
+color: brown
+}
+.container {
+  max-width: 700px;
+  margin: auto;
 }
