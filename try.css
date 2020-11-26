@@ -2,9 +2,23 @@ body {
   margin: 0;
  font-family: 'Varela Round', sans-serif;
   line-height: 1.5;
-color: brown
+color: black
 }
 .container {
   max-width: 600px;
   margin: auto;
+}
+
+.cta {
+  background: green 
+     font size:21px;
+    text-align: center;
+        padding:20px;
+}
+
+.button {
+ background: #80c;
+    color: azure;
+    text-decoration: none;
+    padding: 14px    
 }
